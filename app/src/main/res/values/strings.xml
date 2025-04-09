@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Lab_3</string>
+    <string name="X1">X1</string>
+    <string name="hint_X1">X1</string>
+    <string name="X2">X2</string>
+    <string name="hint_X2">X2</string>
+    <string name="XS">XS</string>
+    <string name="hint_XS">X_Step</string>
+    <string name="limits_along_X">Limits along X</string>
+    <string name="step">Step</string>
+    <string name="function_parameters">Function parameters</string>
+    <string name="result">Result :</string>
+    <string name="Z">Z</string>
+    <string name="hint_Z">Z</string>
+    <string name="A">A</string>
+    <string name="hint_A">A</string>
+    <string name="calculate">Calculate</string>
+    <string name="save">Save</string>
+    <string name="load">Load</string>
+    <string name="clear">Clear</string>
+</resources>
