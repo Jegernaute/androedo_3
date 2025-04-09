@@ -72,7 +72,13 @@ public class MainActivity extends AppCompatActivity {
 
         Button buttonClear = findViewById(R.id.button_clear);
         buttonClear.setOnClickListener(v -> {
-            textView10.setText(""); // Очистити текст
+            textView10.setText("");// Очистити текст
+            editTextNumberDecimal.setText("");
+            editTextNumberDecimal2.setText("");
+            editTextNumberDecimal3.setText("");
+            editTextNumberDecimal4.setText("");
+            editTextNumberDecimal5.setText("");
+
         });
 
 
