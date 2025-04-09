@@ -102,6 +102,7 @@ public class MainActivity extends AppCompatActivity {
                 }
                 br.close();
                 textView10.setText(text.toString());
+                Toast.makeText(this, "Результат завантажено", Toast.LENGTH_SHORT).show();
             } catch (IOException e) {
                 Toast.makeText(this, "Помилка при зчитуванні", Toast.LENGTH_SHORT).show();
             }
